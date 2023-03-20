@@ -1,4 +1,21 @@
-# Hardhat Template [![Open in Gitpod][gitpod-badge]][gitpod] [![Github Actions][gha-badge]][gha] [![Hardhat][hardhat-badge]][hardhat] [![License: MIT][license-badge]][license]
+# KnownOrigin Engineering Solidity Interview
+
+### Description
+- This repo provides everything you will need to undertake the KnownOrigin technical test for a second stage Solidity second interview
+- Please clone this repo and get it setup, note the **Pre Requisites** section below
+- The test will start with 15/20 minutes for code-reviews
+- It will then move on to one of the code-exercises
+
+### Prerequisites
+- Node.js >=16
+- npm >=8
+- pnpm (can install with npm i pnpm)
+
+### Set-up
+- See **Usage** below, key part is creating a .env and generating a mnemonic
+- The compile command requires an infura key in the .env but this can just be taken from .env.example
+
+## Hardhat Template [![Open in Gitpod][gitpod-badge]][gitpod] [![Github Actions][gha-badge]][gha] [![Hardhat][hardhat-badge]][hardhat] [![License: MIT][license-badge]][license]
 
 [gitpod]: https://gitpod.io/#https://github.com/paulrberg/hardhat-template
 [gitpod-badge]: https://img.shields.io/badge/Gitpod-Open%20in%20Gitpod-FFB45B?logo=gitpod
